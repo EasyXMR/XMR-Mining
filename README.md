@@ -14,18 +14,18 @@
 - **Wait** for 10 to 15 minutes before you can see the status live on minexmr.com.
 
 ### Download link:
-Version 1.0.1: [Download](https://mega.nz/file/7mok3DgC#_x0umUc2Zm44WV5NQRQXmtMQaVhVBxngF2yrR5_Yu_U)
+Version 1.0.1: [Download](https://mega.nz/file/7mok3DgC#_x0umUc2Zm44WV5NQRQXmtMQaVhVBxngF2yrR5_Yu_U)<br/>
 
 Version 1.0.2: [Download](https://mega.nz/file/Cnxj2ISK#QHRrYinuQBw2Kw5JhB-lKAdVpYjEfkwLnwjnfQP5ido)
 
 ### Release notes:
-**1.0.2**
-Fix interface bug
-Fix the mining sessions conflict issue
+**1.0.2**<br/>
+Fix interface bug<br/>
+Fix the mining sessions conflict issue<br/>
 Auto save the wallet address
 
 
-**1.0.1**
+**1.0.1**<br/>
 First public release
 
 
