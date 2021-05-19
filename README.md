@@ -15,6 +15,7 @@
 
 ### Download link:
 Version 1.0.1: [Download](https://mega.nz/file/7mok3DgC#_x0umUc2Zm44WV5NQRQXmtMQaVhVBxngF2yrR5_Yu_U)
+
 Version 1.0.2: [Download](https://mega.nz/file/Cnxj2ISK#QHRrYinuQBw2Kw5JhB-lKAdVpYjEfkwLnwjnfQP5ido)
 
 ### Release notes:
