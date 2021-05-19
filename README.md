@@ -15,7 +15,17 @@
 
 ### Download link:
 Version 1.0.1: [Download](https://mega.nz/file/7mok3DgC#_x0umUc2Zm44WV5NQRQXmtMQaVhVBxngF2yrR5_Yu_U)
+Version 1.0.2: [Download](https://mega.nz/file/Cnxj2ISK#QHRrYinuQBw2Kw5JhB-lKAdVpYjEfkwLnwjnfQP5ido)
 
+### Release notes:
+**1.0.2**
+Fix interface bug
+Fix the mining sessions conflict issue
+Auto save the wallet address
+
+
+**1.0.1**
+First public release
 
 
 ![alt text](https://raw.githubusercontent.com/EasyXMR/XMR-Mining/main/EasyXMR.JPG)
