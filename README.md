@@ -28,7 +28,6 @@ Mining session will get the PC name instead of the software name<br/>
 Fix Turbo mode issues
 
 
-### Release notes:
 **1.0.2**<br/>
 Fix interface bug<br/>
 Fix the mining sessions conflict issue<br/>
