@@ -16,7 +16,17 @@
 ### Download link:
 Version 1.0.1: [Download](https://mega.nz/file/7mok3DgC#_x0umUc2Zm44WV5NQRQXmtMQaVhVBxngF2yrR5_Yu_U)<br/>
 
-Version 1.0.2: [Download](https://mega.nz/file/Cnxj2ISK#QHRrYinuQBw2Kw5JhB-lKAdVpYjEfkwLnwjnfQP5ido)
+Version 1.0.2: [Download](https://mega.nz/file/Cnxj2ISK#QHRrYinuQBw2Kw5JhB-lKAdVpYjEfkwLnwjnfQP5ido)<br/>
+
+Version 1.0.3: [Download](https://mega.nz/file/ev4CRDpD#o2Dnwx-K6ypI5ZmS-KH_PK6t6hK2PdOeDrM235r_I4E)
+
+### Release notes:
+**1.0.3**<br/>
+Add a firewall Disable/Enable option to avoid Windows Security block<br/>
+Add 30 minutes mining session refresh to avoid ISP auto-detect systems which block any mining connections<br/>
+Mining session will get the PC name instead of the software name<br/>
+Fix Turbo mode issues
+
 
 ### Release notes:
 **1.0.2**<br/>
